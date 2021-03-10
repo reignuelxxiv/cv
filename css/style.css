@@ -22,6 +22,9 @@ h1 {
   font-size: 75px;
 }
 
+.hob{
+  border-radius: 300px;
+}
 .mm {
   border-radius: 300px;
 }
@@ -34,4 +37,8 @@ h1 {
 
 li{
   color: #00917c;
+}
+.anime{
+  color: #025955;
+  font-size: 20px;
 }
