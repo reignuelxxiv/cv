@@ -1,0 +1,37 @@
+body {
+  Background-color: #d7fbe8;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #1fab89;
+  border-width: 10px;
+  height: 0px;
+  width: 5%;
+}
+
+h3 {
+  color: #025955;
+  font-family: Brush Script MT, cursive;
+  font-size: 30px;
+}
+
+h1 {
+  color: #1fab89;
+  font-family: Brush Script MT, cursive;
+  font-size: 75px;
+}
+
+.mm {
+  border-radius: 300px;
+}
+.educ{
+  height: 400px;
+}
+.work{
+  height: 325px;
+}
+
+li{
+  color: #00917c;
+}
