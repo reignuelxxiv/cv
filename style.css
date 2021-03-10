@@ -11,13 +11,27 @@ hr {
 }
 
 h3 {
-  color: #1fab89;
+  color: #025955;
+  font-family: Brush Script MT, cursive;
+  font-size: 30px;
 }
 
 h1 {
   color: #1fab89;
+  font-family: Brush Script MT, cursive;
+  font-size: 75px;
 }
 
 .mm {
   border-radius: 300px;
+}
+.educ{
+  height: 400px;
+}
+.work{
+  height: 325px;
+}
+
+li{
+  color: #00917c;
 }
